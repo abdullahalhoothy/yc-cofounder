@@ -1,0 +1,4 @@
+# YC Cofounder Matcher Bot Requirements
+pyautogui==0.9.54  # For original PyAutoGUI version (main.py)
+selenium==4.15.2    # For Selenium version (main_selenium.py)
+ollama==0.6.0
