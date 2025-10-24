@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Project-specific files
-formatted_candidates.txt
-recommended_candidates.txt
-*candidates*.txt
